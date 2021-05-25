@@ -5,5 +5,6 @@
 * [2. ADLIB: PERSONEN EN INSTELLINGEN](2.-adlib-personen-en-instellingen.md)
 * [3. ADLIB: THESAURUS](3.-adlib-thesaurus.md)
 * [DRAAIBOEK](draaiboek.md)
+* [Andere info](andere-info.md)
 * [Thesaurus Datacleaning](thesaurus-datacleaning.md)
 
