@@ -12,7 +12,7 @@
   * [Invulboek Archief Gent](invulboek/4.-adlib-invulboek-archief.md)
   * [Invulboeken](invulboek/andere-info.md)
 * [Draaiboek](draaiboek-1/README.md)
-  * [Adlib/Axiel](draaiboek-1/adlib/README.md)
+  * [Adlib/Axiell Collections](draaiboek-1/adlib/README.md)
     * [Opkuis Thesaurus](draaiboek-1/adlib/thesaurus-datacleaning.md)
   * [DAMS](draaiboek-1/dams/README.md)
     * [Bulkimport beelden](draaiboek-1/dams/draaiboek.md)
