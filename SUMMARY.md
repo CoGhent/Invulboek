@@ -7,4 +7,5 @@
 * [4. DAMS: bulkimport beelden](draaiboek.md)
 * [5. Invulboeken](andere-info.md)
 * [6. Draaiboek opkuis eigen thesaurus](thesaurus-datacleaning.md)
+* [5. DAMS: manuele import beelden](5.-dams-manuele-import-beelden.md)
 
