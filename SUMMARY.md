@@ -4,7 +4,7 @@
 * [1. ADLIB: OBJECTEN](1.-adlib-registratie-van-objecten.md)
 * [2. ADLIB: PERSONEN EN INSTELLINGEN](2.-adlib-personen-en-instellingen.md)
 * [3. ADLIB: THESAURUS](3.-adlib-thesaurus.md)
-* [DRAAIBOEK](draaiboek.md)
-* [Andere info](andere-info.md)
-* [Thesaurus Datacleaning](thesaurus-datacleaning.md)
+* [4. Sjabloon import beelden DAMS](draaiboek.md)
+* [5. Invulboeken](andere-info.md)
+* [6. Draaiboek opkuis eigen thesaurus](thesaurus-datacleaning.md)
 

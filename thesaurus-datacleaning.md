@@ -1,4 +1,4 @@
-# Thesaurus Datacleaning
+# 6. Draaiboek opkuis eigen thesaurus
 
 
 
