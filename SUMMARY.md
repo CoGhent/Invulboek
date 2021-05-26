@@ -2,9 +2,10 @@
 
 * [0. Inleiding](README.md)
 * [Invulboek](invulboek/README.md)
-  * [ADLIB: Objecten](invulboek/1.-adlib-registratie-van-objecten.md)
-  * [ADLIB: Personen en Instellingen](invulboek/2.-adlib-personen-en-instellingen.md)
-  * [ADLIB: Thesaurus](invulboek/3.-adlib-thesaurus.md)
+  * [ADLIB](invulboek/adlib/README.md)
+    * [Objecten](invulboek/adlib/1.-adlib-registratie-van-objecten.md)
+    * [Personen en Instellingen](invulboek/adlib/2.-adlib-personen-en-instellingen.md)
+    * [Thesaurus](invulboek/adlib/3.-adlib-thesaurus.md)
   * [Invulboek Archief](invulboek/4.-adlib-invulboek-archief.md)
   * [Invulboeken](invulboek/andere-info.md)
 * [Draaiboek](draaiboek-1/README.md)

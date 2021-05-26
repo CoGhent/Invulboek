@@ -1,2 +1,2 @@
-# 1. DAMS: bulkimport beelden
+# Bulkimport beelden
 
