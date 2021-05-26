@@ -1,10 +1,10 @@
 ---
-description: Invulboek en Handleidingen Collectie van de Gentenaar
+description: Invulboek en Draaiboek Collectie van de Gentenaar
 ---
 
 # Inleiding
 
-## Invulboek en Handleidingen Collectie van de Gentenaar
+## Algemene Inleiding
 
 * Waarom werd dit document gemaakt?
 * Hoe moet dit document worden gebruikt?
