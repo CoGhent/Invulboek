@@ -19,3 +19,9 @@ description: Invulboek en Handleidingen Collectie van de Gentenaar
 
 * Welke velden werden reeds gemapt, door wie gebruikt?
 
+## Inhoud
+
+* inhoudstabel toevoegen
+
+
+
