@@ -15,4 +15,5 @@
     * [Bulkimport beelden](draaiboek-1/dams/draaiboek.md)
     * [Manuele import beelden](draaiboek-1/dams/5.-dams-manuele-import-beelden.md)
     * [Bulk aanpassen rechten](draaiboek-1/dams/bulk-aanpassen-rechten.md)
+* [Overzicht velden datamapping](overzicht-velden-datamapping.md)
 
