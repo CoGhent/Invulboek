@@ -17,7 +17,7 @@ description: Invulboek en Draaiboek Collectie van de Gentenaar
 
 ## Inhoud
 
-* inhoudstafel toevoegen
+* inhoudstafel toevoegen?
 
 ## Data mapping
 
