@@ -1,8 +1,10 @@
 # Mapping Objecten
 
+
+
 | VELD | HVA | IM | DMG | STAM | AG |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| instelling.naam | x | x | x | x | x |
+| instellingsnaam | x | x | x | x | x |
 | afdeling |  |  |  |  | x |
 | collectie |  | x | x |  | x |
 | objectnummer | x | x | x | x | x |

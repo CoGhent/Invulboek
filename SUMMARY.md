@@ -14,6 +14,7 @@
 * [Draaiboek](draaiboek-1/README.md)
   * [Adlib/Axiell Collections](draaiboek-1/adlib/README.md)
     * [Opkuis Thesaurus](draaiboek-1/adlib/thesaurus-datacleaning.md)
+    * [Transformatie export 'huidige standplaats'](draaiboek-1/adlib/transformatie-export-huidige-standplaats.md)
   * [DAMS](draaiboek-1/dams/README.md)
     * [Bulkimport beelden](draaiboek-1/dams/draaiboek.md)
     * [Manuele import beelden](draaiboek-1/dams/5.-dams-manuele-import-beelden.md)
