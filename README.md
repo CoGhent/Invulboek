@@ -2,7 +2,7 @@
 description: Invulboek en Handleidingen Collectie van de Gentenaar
 ---
 
-# 0. Inleiding
+# Inleiding
 
 ## Invulboek en Handleidingen Collectie van de Gentenaar
 

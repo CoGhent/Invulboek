@@ -1,6 +1,6 @@
 # Table of contents
 
-* [0. Inleiding](README.md)
+* [Inleiding](README.md)
 * [Invulboek](invulboek/README.md)
   * [ADLIB](invulboek/adlib/README.md)
     * [Objecten](invulboek/adlib/1.-adlib-registratie-van-objecten.md)
