@@ -14,10 +14,13 @@ description: Invulboek en Handleidingen Collectie van de Gentenaar
 
 * Gebruikte standaarden
 * Externe autoriteiten
+* inhoudstabel toevoegen
 
 ## Data mapping
 
 * Welke velden werden reeds gemapt, door wie gebruikt?
+
+### Objecten
 
 <table>
   <thead>
@@ -163,10 +166,282 @@ description: Invulboek en Handleidingen Collectie van de Gentenaar
       <td style="text-align:left"></td>
     </tr>
     <tr>
+      <td style="text-align:left">vervaardiging.datum.begin.prec</td>
+      <td style="text-align:left">x</td>
+      <td style="text-align:left">x</td>
+      <td style="text-align:left">x</td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">vervaardiging.datum.eind</td>
+      <td style="text-align:left">x</td>
+      <td style="text-align:left">x</td>
+      <td style="text-align:left">x</td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">vervaardiging.datum.eind.prec</td>
+      <td style="text-align:left">x</td>
+      <td style="text-align:left">x</td>
+      <td style="text-align:left">x</td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">vervaardiging.datum.bijzonderheden</td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left">x</td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">materialen.onderdeel</td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left">x</td>
+      <td style="text-align:left">x</td>
+      <td style="text-align:left">x</td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">materiaal</td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left">x</td>
+      <td style="text-align:left">x</td>
+      <td style="text-align:left">x</td>
+      <td style="text-align:left">x</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">technieken.onderdeel</td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left">x</td>
+      <td style="text-align:left">x</td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">techniek</td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left">x</td>
+      <td style="text-align:left">x</td>
+      <td style="text-align:left">x</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">afmeting.onderdeel</td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left">x</td>
+      <td style="text-align:left">x</td>
+      <td style="text-align:left">x</td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">afmeting.soort</td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left">x</td>
+      <td style="text-align:left">x</td>
+      <td style="text-align:left">x</td>
+      <td style="text-align:left">x</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">afmeting.waarde</td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left">x</td>
+      <td style="text-align:left">x</td>
+      <td style="text-align:left">x</td>
+      <td style="text-align:left">x</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">afmeting.eenheid</td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left">x</td>
+      <td style="text-align:left">x</td>
+      <td style="text-align:left">x</td>
+      <td style="text-align:left">x</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">afmeting.bijzonderheden</td>
       <td style="text-align:left"></td>
       <td style="text-align:left"></td>
       <td style="text-align:left"></td>
       <td style="text-align:left"></td>
+      <td style="text-align:left">x</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">inhoud.onderwerp</td>
+      <td style="text-align:left">x</td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">inhoud.persoon.naam</td>
+      <td style="text-align:left">x</td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">inscriptie.inhoud</td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left">x</td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">associatie.onderwerp</td>
+      <td style="text-align:left">x</td>
+      <td style="text-align:left">x</td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left">x</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">associatie.onderwerp.soort</td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left">x</td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left">x</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">associatie.onderwerp.bijzonderheden</td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left">x</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">associatie.persoon</td>
+      <td style="text-align:left">x</td>
+      <td style="text-align:left">x</td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left">x</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">associatie.persoon.soort</td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left">x</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">associatie.persoon.datum.begin</td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left">x</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">associatie.periode</td>
+      <td style="text-align:left">x</td>
+      <td style="text-align:left">x</td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">alternatief_nummer.soort</td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left">x</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">deel_van.referentie</td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left">x</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">delen.referentie</td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left">x</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">verwerving.datum</td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left">x</td>
+      <td style="text-align:left">x</td>
+      <td style="text-align:left">x</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">verwerving.methode</td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left">x</td>
+      <td style="text-align:left">x</td>
+      <td style="text-align:left">x</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">verwerving.plaats</td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left">x</td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">verwerving.bron</td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left">x</td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">huidige_standplaats</td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left">x</td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">tentoonstelling</td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left">x</td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">tentoonstelling.datum.begin</td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left">x</td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">tentoonstelling.datum.eind</td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left">x</td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">tentoonstelling.locatie</td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left">x</td>
       <td style="text-align:left"></td>
       <td style="text-align:left"></td>
     </tr>
