@@ -1,6 +1,6 @@
 # Mapping Objecten
 
-| VELD \(object\) | HVA | IM | DMG | STAM | AG |
+| VELD | HVA | IM | DMG | STAM | AG |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | instelling.naam | x | x | x | x | x |
 | afdeling |  |  |  |  | x |
