@@ -1,4 +1,4 @@
-# 7. Draaiboek opkuis eigen thesaurus
+# 6. Draaiboek opkuis eigen thesaurus
 
 
 

@@ -1,4 +1,4 @@
-# 6. Invulboeken
+# 5. Invulboeken
 
 * Invulboek Design Museum Gent \(voor intern gebruik\)
 * Invulboek Archief Gent
