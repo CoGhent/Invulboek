@@ -1,4 +1,4 @@
-# Overzicht velden datamapping
+# Mapping Objecten
 
 | VELD \(object\) | HVA | IM | DMG | STAM | AG |
 | :--- | :--- | :--- | :--- | :--- | :--- |

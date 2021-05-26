@@ -1,6 +1,9 @@
 # Table of contents
 
-* [Inleiding](README.md)
+* [Invulboek en Draaiboek Collectie van de Gentenaar](README.md)
+* [Datamappings](datamappings/README.md)
+  * [Mapping Objecten](datamappings/overzicht-velden-datamapping.md)
+  * [Mapping Personen en Instellingen](datamappings/mapping-personen-en-instellingen.md)
 * [Invulboek](invulboek/README.md)
   * [Adlib/Axiel](invulboek/adlib/README.md)
     * [Objecten](invulboek/adlib/1.-adlib-registratie-van-objecten.md)
@@ -15,5 +18,4 @@
     * [Bulkimport beelden](draaiboek-1/dams/draaiboek.md)
     * [Manuele import beelden](draaiboek-1/dams/5.-dams-manuele-import-beelden.md)
     * [Bulk aanpassen rechten](draaiboek-1/dams/bulk-aanpassen-rechten.md)
-* [Overzicht velden datamapping](overzicht-velden-datamapping.md)
 

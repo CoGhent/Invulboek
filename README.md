@@ -1,10 +1,10 @@
 ---
-description: Invulboek en Handleidingen Collectie van de Gentenaar
+description: Inleiding
 ---
 
-# 0. Inleiding
+# Invulboek en Draaiboek Collectie van de Gentenaar
 
-## Invulboek en Handleidingen Collectie van de Gentenaar
+## Algemene Inleiding
 
 * Waarom werd dit document gemaakt?
 * Hoe moet dit document worden gebruikt?
@@ -12,10 +12,12 @@ description: Invulboek en Handleidingen Collectie van de Gentenaar
 
 ## Algemene afspraken
 
-* Standaarden
+* Gebruikte standaarden
 * Externe autoriteiten
 
-## Data mapping
+## Inhoudsopgave
 
-* Welke velden werden reeds gemapt, door wie gebruikt?
+* inhoudstafel toevoegen?
+
+
 
