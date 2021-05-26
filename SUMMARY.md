@@ -5,7 +5,7 @@
   * [Mapping Objecten](datamappings/overzicht-velden-datamapping.md)
   * [Mapping Personen en Instellingen](datamappings/mapping-personen-en-instellingen.md)
 * [Invulboek](invulboek/README.md)
-  * [Adlib/Axiel](invulboek/adlib/README.md)
+  * [Adlib/Axiell Collections](invulboek/adlib/README.md)
     * [Objecten](invulboek/adlib/1.-adlib-registratie-van-objecten.md)
     * [Personen en Instellingen](invulboek/adlib/2.-adlib-personen-en-instellingen.md)
     * [Thesaurus](invulboek/adlib/3.-adlib-thesaurus.md)
