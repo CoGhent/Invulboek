@@ -9,7 +9,7 @@
   * [Invulboeken](invulboek/andere-info.md)
 * [Draaiboek](draaiboek-1/README.md)
   * [ADLIB](draaiboek-1/adlib/README.md)
-    * [1. Opkuis Thesaurus](draaiboek-1/adlib/thesaurus-datacleaning.md)
+    * [Opkuis Thesaurus](draaiboek-1/adlib/thesaurus-datacleaning.md)
   * [DAMS](draaiboek-1/dams/README.md)
     * [Bulkimport beelden](draaiboek-1/dams/draaiboek.md)
     * [Manuele import beelden](draaiboek-1/dams/5.-dams-manuele-import-beelden.md)

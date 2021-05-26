@@ -1,4 +1,4 @@
-# 1. Opkuis Thesaurus
+# Opkuis Thesaurus
 
 
 
