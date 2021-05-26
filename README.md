@@ -1,8 +1,8 @@
 ---
-description: Inleiding
+description: Invulboek en Draaiboek Collectie van de Gentenaar
 ---
 
-# Invulboek en Draaiboek Collectie van de Gentenaar
+# Inleiding
 
 ## Algemene Inleiding
 

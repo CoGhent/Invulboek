@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Invulboek en Draaiboek Collectie van de Gentenaar](README.md)
+* [Inleiding](README.md)
 * [Datamappings](datamappings/README.md)
   * [Mapping Objecten](datamappings/overzicht-velden-datamapping.md)
   * [Mapping Personen en Instellingen](datamappings/mapping-personen-en-instellingen.md)
