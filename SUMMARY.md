@@ -1,6 +1,6 @@
 # Table of contents
 
-* [0. ALGEMENE AFSPRAKEN](README.md)
+* [0. Inleiding](README.md)
 * [1. ADLIB: objecten](1.-adlib-registratie-van-objecten.md)
 * [2. ADLIB: personen en instellingen](2.-adlib-personen-en-instellingen.md)
 * [3. ADLIB: thesaurus](3.-adlib-thesaurus.md)
