@@ -12,7 +12,7 @@ description: Invulboek en Handleidingen Collectie van de Gentenaar
 
 ## Algemene afspraken
 
-* Standaarden
+* Gebruikte standaarden
 * Externe autoriteiten
 
 ## Data mapping
