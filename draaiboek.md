@@ -1,2 +1,2 @@
-# 4. Sjabloon import beelden DAMS
+# 4. DAMS: bulkimport beelden
 
