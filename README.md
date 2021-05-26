@@ -15,6 +15,10 @@ description: Invulboek en Draaiboek Collectie van de Gentenaar
 * Gebruikte standaarden
 * Externe autoriteiten
 
+## Inhoud
+
+* inhoudstafel toevoegen
+
 ## Data mapping
 
 **Objecten**
@@ -73,9 +77,7 @@ description: Invulboek en Draaiboek Collectie van de Gentenaar
 | tentoonstelling.datum.eind |  |  | x |  |  |
 | tentoonstelling.locatie |  |  | x |  |  |
 
-## Inhoud
-
-* inhoudstabel toevoegen
+## 
 
 
 
