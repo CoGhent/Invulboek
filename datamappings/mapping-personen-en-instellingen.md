@@ -14,7 +14,7 @@
 | aanhef |  |  |  |  | x |
 | bron | x |  | x | x | x |
 | bron.nummer | x |  | x | x | x |
-| naam.status | x |  | x | x | x |
+| naam.status | x | x | x | x | x |
 | geboorte.datum.begin | x |  | x | x | x |
 | geboorte.datum.eind |  |  | x | x | x |
 | geboorte.plaats | x |  | x | x | x |
