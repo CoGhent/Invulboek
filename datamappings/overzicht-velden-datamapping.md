@@ -1,10 +1,8 @@
 # Mapping Objecten
 
-
-
 | VELD | HVA | IM | DMG | STAM | AG |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| instellingsnaam | x | x | x | x | x |
+| instelling.naam | x | x | x | x | x |
 | afdeling |  |  |  |  | x |
 | collectie |  | x | x |  | x |
 | objectnummer | x | x | x | x | x |
@@ -32,7 +30,7 @@
 | afmeting.soort |  | x | x | x | x |
 | afmeting.waarde |  | x | x | x | x |
 | afmeting.eenheid |  | x | x | x | x |
-| afmeting.bijzonderheden |  |  |  |  | x |
+| afmetering.bijzonderheden |  |  |  |  | x |
 | inhoud.onderwerp | x |  |  |  |  |
 | inhoud.persoon.naam | x |  |  |  |  |
 | inscriptie.inhoud |  | x |  |  |  |
