@@ -5,8 +5,8 @@
 | naam | x |  | x | x | x |
 | naam.soort | x |  | x | x | x |
 | referentienummer | x |  | x | x | x |
-| use |  |  | x |  |  |
-| used\_for |  |  | x |  |  |
+| use | x |  | x |  |  |
+| used\_for | x |  | x |  |  |
 | titel |  |  |  |  | x |
 | geslacht | x |  | x | x | x |
 | achternaam | x |  | x | x | x |
