@@ -52,7 +52,7 @@
 | verwerving.datum |  |  | DMG | STAM | AG |
 | verwerving.methode |  |  | DMG | STAM | AG |
 | verwerving.plaats |  |  | DMG |  |  |
-| verwerving.bron |  |  | DMG |  | AG |
+| verwerving.bron |  |  |  |  | AG |
 | huidige\_standplaats |  |  | DMG |  |  |
 | tentoonstelling |  |  | DMG |  |  |
 | tentoonstelling.datum.begin |  |  | DMG |  |  |
