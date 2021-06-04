@@ -1,56 +1,61 @@
 # Mapping Objecten
 
+
+
 | VELD | HVA | IM | DMG | STAM | AG |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| instelling.naam | x | x | x | x | x |
-| afdeling |  |  |  |  | x |
-| collectie |  | x | x |  | x |
-| objectnummer | x | x | x | x | x |
-| record.type |  |  |  |  | x |
-| objectcategorie | x | x |  |  | x |
-| objectnaam | x | x | x | x | x |
-| titel | x | x | x | x | x |
-| onderdeel + aantal |  |  |  |  | x |
-| beschrijving | x | x | x | x | x |
-| oplage |  |  | x |  |  |
-| vervaardiger | x | x | x | x |  |
-| vervaardiger.rol | x | x | x | x |  |
-| vervaardiging.plaats | x | x | x | x |  |
-| vervaardiging.periode |  | x |  | x |  |
-| vervaardiging.datum.begin | x | x | x | x |  |
-| vervaardiging.datum.begin.prec | x | x | x |  |  |
-| vervaardiging.datum.eind | x | x | x | x |  |
-| vervaardiging.datum.eind.prec | x | x | x |  |  |
-| vervaardiging.datum.bijzonderheden |  |  | x |  |  |
-| materialen.onderdeel |  | x | x | x |  |
-| materiaal |  | x | x | x | x |
-| technieken.onderdeel |  |  | x | x |  |
-| techniek |  |  | x | x | x |
-| afmeting.onderdeel |  | x | x | x |  |
-| afmeting.soort |  | x | x | x | x |
-| afmeting.waarde |  | x | x | x | x |
-| afmeting.eenheid |  | x | x | x | x |
-| afmetering.bijzonderheden |  |  |  |  | x |
-| inhoud.onderwerp | x |  |  |  |  |
-| inhoud.persoon.naam | x |  |  |  |  |
-| inscriptie.inhoud |  | x |  |  |  |
-| associatie.onderwerp | x | x |  |  | x |
-| associatie.onderwerp.soort |  | x |  |  | x |
-| associatie.onderwerp.bijzonderheden |  |  |  |  | x |
-| associatie.persoon | x | x |  |  | x |
-| associatie.persoon.soort |  |  |  |  | x |
-| associatie.persoon.datum.begin |  |  |  |  | x |
-| associatie.periode | x | x |  |  |  |
-| alternatief\_nummer.soort |  |  |  |  | x |
-| deel\_van.referentie |  |  |  |  | x |
-| delen.referentie |  |  |  |  | x |
-| verwerving.datum |  |  | x | x | x |
-| verwerving.methode |  |  | x | x | x |
-| verwerving.plaats |  |  | x |  |  |
-| verwerving.bron |  |  | x |  | x |
-| huidige\_standplaats |  |  | x |  |  |
-| tentoonstelling |  |  | x |  |  |
-| tentoonstelling.datum.begin |  |  | x |  |  |
-| tentoonstelling.datum.eind |  |  | x |  |  |
-| tentoonstelling.locatie |  |  | x |  |  |
+| instellingsnaam | HVA | IM | DMG | STAM | AG |
+| afdeling |  |  |  |  | AG |
+| collectie |  | IM | DMG |  | AG |
+| objectnummer | HVA | IM | DMG | STAM | AG |
+| record.type |  |  |  |  | AG |
+| objectcategorie | HVA | IM |  |  | AG |
+| objectnaam | HVA | IM | DMG | STAM | AG |
+| titel | HVA | IM | DMG | STAM | AG |
+| onderdeel + aantal |  |  |  |  | AG |
+| beschrijving | HVA | IM | DMG | STAM | AG |
+| oplage |  |  | DMG |  |  |
+| vervaardiger | HVA | IM | DMG | STAM |  |
+| vervaardiger.rol | HVA | IM | DMG | STAM |  |
+| vervaardiging.plaats | HVA | IM | DMG | STAM |  |
+| vervaardiging.periode |  | IM |  | STAM |  |
+| vervaardiging.datum.begin | HVA | IM | DMG | STAM |  |
+| vervaardiging.datum.begin.prec | HVA | IM | DMG |  |  |
+| vervaardiging.datum.eind | HVA | IM | DMG | STAM |  |
+| vervaardiging.datum.eind.prec | HVA | IM | DMG |  |  |
+| vervaardiging.datum.bijzonderheden |  |  | DMG |  |  |
+| materialen.onderdeel |  | IM | DMG | STAM |  |
+| materiaal |  | IM | DMG | STAM | AG |
+| technieken.onderdeel |  |  | DMG | STAM |  |
+| techniek |  |  | DMG | STAM | AG |
+| afmeting.onderdeel |  | IM | DMG | STAM |  |
+| afmeting.soort |  | IM | DMG | STAM | AG |
+| afmeting.waarde |  | IM | DMG | STAM | AG |
+| afmeting.eenheid |  | IM | DMG | STAM | AG |
+| afmeting.bijzonderheden |  |  |  |  | AG |
+| inhoud.onderwerp | HVA |  |  |  |  |
+| inhoud.persoon.naam | HVA |  |  |  |  |
+| inscriptie.inhoud |  | IM |  |  |  |
+| associatie.onderwerp | HVA | IM |  |  | AG |
+| associatie.onderwerp.soort |  | IM |  |  | AG |
+| associatie.onderwerp.bijzonderheden |  |  |  |  | AG |
+| associatie.persoon | HVA | IM |  |  | AG |
+| associatie.persoon.soort |  |  |  |  | AG |
+| associatie.persoon.datum.begin |  |  |  |  | AG |
+| associatie.periode | HVA | IM |  |  |  |
+| alternatief\_nummer.soort |  |  |  |  | AG |
+| deel\_van.referentie |  |  |  |  | AG |
+| delen.referentie |  |  |  |  | AG |
+| gerelateerd\_object.referentie |  |  | DMG |  |  |
+| gerelateerd\_object.titel |  |  | DMG |  |  |
+| gerelateerd\_object.associatie |  |  | DMG |  |  |
+| verwerving.datum |  |  | DMG | STAM | AG |
+| verwerving.methode |  |  | DMG | STAM | AG |
+| verwerving.plaats |  |  | DMG |  |  |
+| verwerving.bron |  |  | DMG |  | AG |
+| huidige\_standplaats |  |  | DMG |  |  |
+| tentoonstelling |  |  | DMG |  |  |
+| tentoonstelling.datum.begin |  |  | DMG |  |  |
+| tentoonstelling.datum.eind |  |  | DMG |  |  |
+| tentoonstelling.locatie |  |  | DMG |  |  |
 
