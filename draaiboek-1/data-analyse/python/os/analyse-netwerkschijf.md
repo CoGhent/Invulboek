@@ -1,4 +1,4 @@
-# OS: Analyse Netwerkschijf
+# Analyse Netwerkschijf
 
 {% embed url="https://docs.python.org/3/library/os.html" caption="" %}
 
