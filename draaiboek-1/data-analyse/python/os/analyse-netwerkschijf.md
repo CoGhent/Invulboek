@@ -1,6 +1,6 @@
-# Analyse Netwerkschijf
+# Analyse Netwerkschijf via os.walk
 
-{% embed url="https://docs.python.org/3/library/os.html" caption="" %}
+[os.walk](https://docs.python.org/3/library/os.html#os.walk)
 
 ## 1 Overzicht bestanden op de r-schijf
 

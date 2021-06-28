@@ -1,6 +1,4 @@
 # Pandas Library
 
-{% embed url="https://pandas.pydata.org/" %}
-
-
+[Pandas Library](https://pandas.pydata.org/)
 
