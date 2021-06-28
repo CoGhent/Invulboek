@@ -23,7 +23,7 @@
   * [Data Analyse](draaiboek-1/data-analyse/README.md)
     * [1. Excel](draaiboek-1/data-analyse/excel/README.md)
       * [Formules](draaiboek-1/data-analyse/excel/formules.md)
-      * [Data Visualisering](draaiboek-1/data-analyse/excel/data-visualisering.md)
+      * [Data Visualiseren](draaiboek-1/data-analyse/excel/data-visualisering.md)
     * [2. Python](draaiboek-1/data-analyse/python/README.md)
       * [Python Standard Library](draaiboek-1/data-analyse/python/os/README.md)
         * [Analyse Netwerkschijf via os.walk](draaiboek-1/data-analyse/python/os/analyse-netwerkschijf.md)

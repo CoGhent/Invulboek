@@ -1,4 +1,4 @@
-# Data Visualisering
+# Data Visualiseren
 
 ## 1. Kolomgrafiek
 
