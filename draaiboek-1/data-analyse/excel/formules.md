@@ -1,6 +1,6 @@
 # Formules
 
-## 1. Data tellen
+## 1. Data analyseren
 
 
 
