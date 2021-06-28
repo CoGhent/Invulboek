@@ -1,2 +1,2 @@
-# 1. Adlib/Axiell Collections
+# Adlib/Axiell Collections
 
