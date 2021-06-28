@@ -18,7 +18,7 @@
   * [DAMS](draaiboek-1/dams/README.md)
     * [Bulkimport beelden](draaiboek-1/dams/draaiboek.md)
     * [Manuele import beelden](draaiboek-1/dams/5.-dams-manuele-import-beelden.md)
-    * [Transformatie export 'huidige standplaats'](draaiboek-1/dams/transformatie-export-huidige-standplaats.md)
+    * [Import Huidige Standplaats](draaiboek-1/dams/transformatie-export-huidige-standplaats.md)
     * [Bulk aanpassen rechten](draaiboek-1/dams/bulk-aanpassen-rechten.md)
   * [Data Analyse](draaiboek-1/data-analyse/README.md)
     * [Python](draaiboek-1/data-analyse/python/README.md)

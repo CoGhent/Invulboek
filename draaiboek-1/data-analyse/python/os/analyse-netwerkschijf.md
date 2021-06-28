@@ -8,5 +8,5 @@
 
 
 
-## 3 Overzicht bestandsgrootte op r-schijf
+## 3 Overzicht bestandsgroottes op r-schijf
 
