@@ -70,7 +70,7 @@ Tip: Als je het veld “Bron” aanklik, geeft Axiell een drop down menu van de 
 
 • Hangen er ongeveer evenveel records aan de term? Kies dan de voor de meervoudsvorm, deze staat in AAT altijd als de geprefereerde term
 
-### 2. in de thesaurus staan synoniemen
+### 2. In de thesaurus staan synoniemen
 
 • Gebruik hier de velden “use” en “used for”
 
@@ -88,7 +88,7 @@ Tip: Als je het veld “Bron” aanklik, geeft Axiell een drop down menu van de 
 
 • Verander bij de termen die niet langer actief zullen gebruikt worden de status naar “non-descriptor”
 
-### 3. in de thesaurus staan identieke termen
+### 3. In de thesaurus staan identieke termen
 
 • Controleer via het linkoverzicht aan welke term het meest records hangen
 
@@ -97,5 +97,5 @@ Tip: Als je het veld “Bron” aanklik, geeft Axiell een drop down menu van de 
 • koppel alle records aan de meest gebruikte term, dit kan op twee manieren:
 
 * zoek de gekoppelde records één voor één via de priref die je vind in het linkoverzicht en vervang de term
-* gebruik de velden “use” en “used for”, adlib koppelt dan automatisch de records aan de term die je kiest, hierna kan je de overbodige term verwijderen
+* gebruik de velden “use” en “used for”; Adlib koppelt dan automatisch de records aan de term die je kiest, hierna kan je de overbodige term verwijderen
 
