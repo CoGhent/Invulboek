@@ -9,7 +9,6 @@
     * [Objecten](invulboek/adlib/1.-adlib-registratie-van-objecten.md)
     * [Personen en Instellingen](invulboek/adlib/2.-adlib-personen-en-instellingen.md)
     * [Thesaurus](invulboek/adlib/3.-adlib-thesaurus.md)
-  * [Invulboek Archief Gent](invulboek/4.-adlib-invulboek-archief.md)
   * [Invulboeken](invulboek/andere-info/README.md)
     * [Archief Gent](invulboek/andere-info/archief-gent.md)
     * [Design Museum Gent](invulboek/andere-info/design-museum-gent.md)
