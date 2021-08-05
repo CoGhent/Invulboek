@@ -1,21 +1,19 @@
----
-description: Invulboek en Draaiboek Collectie van de Gentenaar
----
+# invulboek (DUTCH)
 
-# Inleiding
+## Inleiding
 
-## Algemene Inleiding
+### Algemene Inleiding
 
 * Waarom werd dit document gemaakt?
 * Hoe moet dit document worden gebruikt?
 * Wie beheert het document? \(voor en na project\)
 
-## Algemene afspraken
+### Algemene afspraken
 
 * Gebruikte standaarden
 * Externe autoriteiten
 
-## Inhoudsopgave
+### Inhoudsopgave
 
 * inhoudstafel toevoegen?
 
