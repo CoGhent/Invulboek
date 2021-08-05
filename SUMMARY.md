@@ -28,6 +28,7 @@
     * [1. Excel](draaiboek-1/data-analyse/excel/README.md)
       * [Formules](draaiboek-1/data-analyse/excel/formules.md)
       * [Data Visualiseren](draaiboek-1/data-analyse/excel/data-visualisering.md)
-  * [Train the Trainer](draaiboek-1/train-the-trainer/README.md)
-    * [Tkinter](draaiboek-1/train-the-trainer/tkinter.md)
+* [Train the Trainer](train-the-trainer/README.md)
+  * [Python](train-the-trainer/python/README.md)
+    * [Tkinter](train-the-trainer/python/tkinter.md)
 
