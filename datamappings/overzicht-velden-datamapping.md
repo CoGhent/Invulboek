@@ -1,3 +1,7 @@
+---
+description: Betreft invulvelden Adlib/Axiell Collections
+---
+
 # Mapping Objecten
 
 
@@ -12,7 +16,8 @@
 | objectcategorie | HVA | IM |  |  | AG |
 | objectnaam | HVA | IM | DMG | STAM | AG |
 | titel | HVA | IM | DMG | STAM | AG |
-| onderdeel + aantal |  |  |  |  | AG |
+| deel |  |  |  |  | AG |
+| aantal\_onderdelen |  |  |  |  | AG |
 | beschrijving | HVA | IM | DMG | STAM | AG |
 | oplage |  |  | DMG |  |  |
 | vervaardiger | HVA | IM | DMG | STAM |  |
@@ -37,12 +42,14 @@
 | inhoud.persoon.naam | HVA |  |  |  |  |
 | inscriptie.inhoud |  | IM |  |  |  |
 | associatie.onderwerp | HVA | IM |  |  | AG |
+| associatie.onderwerp.associatie |  |  |  |  | AG |
 | associatie.onderwerp.soort |  | IM |  |  | AG |
 | associatie.onderwerp.bijzonderheden |  |  |  |  | AG |
 | associatie.persoon | HVA | IM |  |  | AG |
 | associatie.persoon.soort |  |  |  |  | AG |
 | associatie.persoon.datum.begin |  |  |  |  | AG |
 | associatie.periode | HVA | IM |  |  |  |
+| associatie.periode.associatie |  |  |  |  | AG |
 | alternatief\_nummer.soort |  |  |  |  | AG |
 | deel\_van.referentie |  |  |  |  | AG |
 | delen.referentie |  |  |  |  | AG |

@@ -1,7 +1,3 @@
----
-description: Betreft invulvelden Adlib/Axiell Collections
----
-
 # Mapping Personen en Instellingen
 
 | VELD | HVA | IM | DMG | STAM | AG |
