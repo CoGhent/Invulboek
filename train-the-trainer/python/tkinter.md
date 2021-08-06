@@ -89,9 +89,23 @@ Extra functionaliteiten:
 {% endtab %}
 
 {% tab title="Checkboxes" %}
+#### 1 Checkbox maken
 
+**\#NaamCheckbutton\# = Checkbutton\(\#naamApp\#, text="\#", variable="\#naamVariable\#", onvalue = "\#", offvalue = "\#"\)**: on en offvalue enkel te gebruiken bij string variables
+
+#### 2. Checkbox op het scherm laten verschijnen
+
+**\#NaamCheckbutton\#.grid\(column="\#", row="\#"\)**
+
+**\#naamVariable\#=IntVar\(\)**: variable specifiëren, integer \(geeft 1 als checkbox is aangevinkt, anders 0\)
+
+**\#naamVariable\#=StringVar\(\)**
 {% endtab %}
 {% endtabs %}
+
+
+
+
 
 ## 3. Layout
 
