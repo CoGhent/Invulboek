@@ -20,15 +20,15 @@ description: Betreft invulvelden Adlib/Axiell Collections die geïmporteerd word
 | objectnaam | HVA | IM | DMG | STAM | AG |
 | titel | HVA | IM | DMG | STAM | AG |
 | beschrijving | HVA | IM | DMG | STAM | AG |
-| vervaardiger | HVA | IM | DMG | STAM |  |
-| vervaardiger.rol | HVA | IM | DMG | STAM |  |
-| vervaardiging.plaats | HVA | IM | DMG | STAM |  |
-| vervaardiging.periode |  | IM |  | STAM |  |
-| vervaardiging.datum.begin | HVA | IM | DMG | STAM |  |
-| vervaardiging.datum.begin.prec | HVA | IM | DMG |  |  |
-| vervaardiging.datum.eind | HVA | IM | DMG | STAM |  |
-| vervaardiging.datum.eind.prec | HVA | IM | DMG |  |  |
-| vervaardiging.datum.bijzonderheden |  |  | DMG |  |  |
+| vervaardiger | HVA | IM | DMG | STAM | AG |
+| vervaardiger.rol | HVA | IM | DMG | STAM | AG |
+| vervaardiging.plaats | HVA | IM | DMG | STAM | AG |
+| vervaardiging.periode |  | IM |  | STAM | AG |
+| vervaardiging.datum.begin | HVA | IM | DMG | STAM | AG |
+| vervaardiging.datum.begin.prec | HVA | IM | DMG |  | AG |
+| vervaardiging.datum.eind | HVA | IM | DMG | STAM | AG |
+| vervaardiging.datum.eind.prec | HVA | IM | DMG |  | AG |
+| vervaardiging.datum.bijzonderheden |  |  | DMG |  | AG |
 | techniek.onderdeel |  |  | DMG | STAM | AG |
 | techniek |  |  | DMG | STAM | AG |
 | materiaal.onderdeel |  | IM | DMG | STAM | AG |
