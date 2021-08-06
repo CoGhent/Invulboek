@@ -8,18 +8,18 @@ description: Betreft invulvelden Adlib/Axiell Collections
 
 | VELD | HVA | IM | DMG | STAM | AG |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| instellingsnaam | HVA | IM | DMG | STAM | AG |
+| instelling.naam | HVA | IM | DMG | STAM | AG |
 | afdeling |  |  |  |  | AG |
 | collectie |  | IM | DMG |  | AG |
 | objectnummer | HVA | IM | DMG | STAM | AG |
-| record.type |  |  |  |  | AG |
-| objectcategorie | HVA | IM |  |  | AG |
-| objectnaam | HVA | IM | DMG | STAM | AG |
-| titel | HVA | IM | DMG | STAM | AG |
+| record\_type |  |  |  |  | AG |
 | deel |  |  |  |  | AG |
 | aantal\_onderdelen |  |  |  |  | AG |
-| beschrijving | HVA | IM | DMG | STAM | AG |
 | oplage |  |  | DMG |  |  |
+| object\_categorie | HVA | IM |  |  | AG |
+| objectnaam | HVA | IM | DMG | STAM | AG |
+| titel | HVA | IM | DMG | STAM | AG |
+| beschrijving | HVA | IM | DMG | STAM | AG |
 | vervaardiger | HVA | IM | DMG | STAM |  |
 | vervaardiger.rol | HVA | IM | DMG | STAM |  |
 | vervaardiging.plaats | HVA | IM | DMG | STAM |  |
@@ -29,10 +29,10 @@ description: Betreft invulvelden Adlib/Axiell Collections
 | vervaardiging.datum.eind | HVA | IM | DMG | STAM |  |
 | vervaardiging.datum.eind.prec | HVA | IM | DMG |  |  |
 | vervaardiging.datum.bijzonderheden |  |  | DMG |  |  |
-| materialen.onderdeel |  | IM | DMG | STAM |  |
-| materiaal |  | IM | DMG | STAM | AG |
-| technieken.onderdeel |  |  | DMG | STAM |  |
+| techniek.onderdeel |  |  | DMG | STAM |  |
 | techniek |  |  | DMG | STAM | AG |
+| materiaal.onderdeel |  | IM | DMG | STAM |  |
+| materiaal |  | IM | DMG | STAM | AG |
 | afmeting.onderdeel |  | IM | DMG | STAM |  |
 | afmeting.soort |  | IM | DMG | STAM | AG |
 | afmeting.waarde |  | IM | DMG | STAM | AG |
