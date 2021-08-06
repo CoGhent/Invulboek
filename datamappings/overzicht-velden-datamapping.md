@@ -1,5 +1,5 @@
 ---
-description: Betreft invulvelden Adlib/Axiell Collections
+description: Betreft invulvelden Adlib/Axiell Collections die geïmporteerd worden in DAMS
 ---
 
 # Mapping Objecten
