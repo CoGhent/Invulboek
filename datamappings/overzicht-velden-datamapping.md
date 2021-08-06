@@ -59,8 +59,8 @@ description: Betreft invulvelden Adlib/Axiell Collections die geïmporteerd word
 | gerelateerd\_object.associatie |  |  | DMG |  |  |
 | verwerving.datum |  |  | DMG | STAM | AG |
 | verwerving.methode |  |  | DMG | STAM | AG |
-| verwerving.plaats |  |  | DMG |  |  |
 | verwerving.bron |  |  |  |  | AG |
+| verwerving.plaats |  |  | DMG |  |  |
 | huidige\_standplaats |  |  | DMG |  |  |
 | tentoonstelling |  |  | DMG |  |  |
 | tentoonstelling.datum.begin |  |  | DMG |  |  |

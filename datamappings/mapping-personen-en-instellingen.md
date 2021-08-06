@@ -1,7 +1,3 @@
----
-description: Betreft invulvelden Adlib/Axiell Collections die geïmporteerd worden in DAMS
----
-
 # Mapping Personen en Instellingen
 
 | VELD | HVA | IM | DMG | STAM | AG |
