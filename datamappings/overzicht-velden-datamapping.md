@@ -29,17 +29,17 @@ description: Betreft invulvelden Adlib/Axiell Collections die geïmporteerd word
 | vervaardiging.datum.eind | HVA | IM | DMG | STAM |  |
 | vervaardiging.datum.eind.prec | HVA | IM | DMG |  |  |
 | vervaardiging.datum.bijzonderheden |  |  | DMG |  |  |
-| techniek.onderdeel |  |  | DMG | STAM |  |
+| techniek.onderdeel |  |  | DMG | STAM | AG |
 | techniek |  |  | DMG | STAM | AG |
-| materiaal.onderdeel |  | IM | DMG | STAM |  |
+| materiaal.onderdeel |  | IM | DMG | STAM | AG |
 | materiaal |  | IM | DMG | STAM | AG |
-| afmeting.onderdeel |  | IM | DMG | STAM |  |
+| afmeting.onderdeel |  | IM | DMG | STAM | AG |
 | afmeting.soort |  | IM | DMG | STAM | AG |
 | afmeting.waarde |  | IM | DMG | STAM | AG |
 | afmeting.eenheid |  | IM | DMG | STAM | AG |
 | afmeting.bijzonderheden |  |  |  |  | AG |
-| inhoud.persoon.naam | HVA |  |  |  |  |
-| inhoud.onderwerp | HVA |  |  |  |  |
+| inhoud.persoon.naam | HVA |  |  |  | AG |
+| inhoud.onderwerp | HVA |  |  |  | AG |
 | inscriptie.inhoud |  | IM |  |  |  |
 | associatie.persoon.associatie |  |  |  |  | AG |
 | associatie.persoon.soort |  |  |  |  | AG |
