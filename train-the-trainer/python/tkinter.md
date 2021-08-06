@@ -95,13 +95,31 @@ Extra functionaliteiten:
 
 #### 2. Checkbox op het scherm laten verschijnen
 
-**\#NaamCheckbutton\#.grid\(column="\#", row="\#"\)**
+**\#NaamCheckbutton\#.grid\(column=\#, row=\#\)**
 
 **\#naamVariable\#=IntVar\(\)**: variable specifiëren, integer \(geeft 1 als checkbox is aangevinkt, anders 0\)
 
 **\#naamVariable\#=StringVar\(\)**
 {% endtab %}
+
+{% tab title="Dropdown Menu" %}
+#### 1. Dropdown Menu maken
+
+**\#naamDropdownmenu\# = OptionMenu\(\#naamApp\#, \#variable\#, "\#", "\#", ...\)**
+
+#### 2. Dropdown Menu op het scherm laten verschijnen
+
+**\#naamDropdownmenu\#.grid\(row=\#, column=\#\)**
+
+**\#variable\# = StringVar\(\)**
+
+**\#variable\#.set\("\#"\)**: geeft een default waarde onmiddellijk weer
+
+**\#variable\#.get\(\)**: geeft gekozen waarde
+{% endtab %}
 {% endtabs %}
+
+
 
 
 
