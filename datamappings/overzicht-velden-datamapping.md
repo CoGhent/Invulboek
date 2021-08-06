@@ -38,19 +38,20 @@ description: Betreft invulvelden Adlib/Axiell Collections
 | afmeting.waarde |  | IM | DMG | STAM | AG |
 | afmeting.eenheid |  | IM | DMG | STAM | AG |
 | afmeting.bijzonderheden |  |  |  |  | AG |
-| inhoud.onderwerp | HVA |  |  |  |  |
 | inhoud.persoon.naam | HVA |  |  |  |  |
+| inhoud.onderwerp | HVA |  |  |  |  |
 | inscriptie.inhoud |  | IM |  |  |  |
-| associatie.onderwerp | HVA | IM |  |  | AG |
+| associatie.persoon.associatie |  |  |  |  | AG |
+| associatie.persoon.soort |  |  |  |  | AG |
+| associatie.persoon | HVA | IM |  |  | AG |
 | associatie.onderwerp.associatie |  |  |  |  | AG |
 | associatie.onderwerp.soort |  | IM |  |  | AG |
+| associatie.onderwerp | HVA | IM |  |  | AG |
 | associatie.onderwerp.bijzonderheden |  |  |  |  | AG |
-| associatie.persoon | HVA | IM |  |  | AG |
-| associatie.persoon.soort |  |  |  |  | AG |
-| associatie.persoon.datum.begin |  |  |  |  | AG |
-| associatie.periode | HVA | IM |  |  |  |
 | associatie.periode.associatie |  |  |  |  | AG |
-| alternatief\_nummer.soort |  |  |  |  | AG |
+| associatie.periode | HVA | IM |  |  |  |
+| associatie.periode.datum.begin |  |  |  |  | AG |
+| associatie.periode.datum.eind |  |  |  |  | AG |
 | deel\_van.referentie |  |  |  |  | AG |
 | delen.referentie |  |  |  |  | AG |
 | gerelateerd\_object.referentie |  |  | DMG |  |  |
