@@ -105,11 +105,23 @@ Extra functionaliteiten:
 {% endtab %}
 
 {% tab title="Images" %}
+**from PIL import ImageTk, Image**\*: Module individueel te importeren
 
+#### **1.        Afbeelding maken**
+
+**\#afbeelding\# = ImageTk.PhotoImage\(Image.open\("'\#pad\#"\)**
+
+#### **2.       Afbeelding laten verschijnen op het scherm**
+
+**\#Label\# = Label\(image=\#afbeelding\#\)**
+
+**\#Label\#.grid\(row=0, column=0\)**
+
+\*pip install Pillow
 {% endtab %}
 
 {% tab title="Icon" %}
-
+**\#naamApp\#.iconbitmap\("\#padnaam\#"\)**: Selecteer een Icon voor je venster _\(.ico afbeelding\)_
 {% endtab %}
 {% endtabs %}
 
