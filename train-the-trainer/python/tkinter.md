@@ -119,12 +119,6 @@ Extra functionaliteiten:
 {% endtab %}
 {% endtabs %}
 
-
-
-
-
-
-
 ## 3. Layout
 
 {% tabs %}
