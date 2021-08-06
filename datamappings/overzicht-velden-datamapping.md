@@ -1,7 +1,3 @@
----
-description: Betreft invulvelden Adlib/Axiell Collections
----
-
 # Mapping Objecten
 
 
@@ -16,8 +12,7 @@ description: Betreft invulvelden Adlib/Axiell Collections
 | objectcategorie | HVA | IM |  |  | AG |
 | objectnaam | HVA | IM | DMG | STAM | AG |
 | titel | HVA | IM | DMG | STAM | AG |
-| deel |  |  |  |  | AG |
-| aantal\_onderdelen |  |  |  |  | AG |
+| onderdeel + aantal |  |  |  |  | AG |
 | beschrijving | HVA | IM | DMG | STAM | AG |
 | oplage |  |  | DMG |  |  |
 | vervaardiger | HVA | IM | DMG | STAM |  |
