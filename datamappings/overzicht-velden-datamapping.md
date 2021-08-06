@@ -6,7 +6,7 @@ description: Betreft invulvelden Adlib/Axiell Collections
 
 
 
-| VELD | HVA | IM | DMG | STAM | AG |
+| INVULVELD | HVA | IM | DMG | STAM | AG |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | instelling.naam | HVA | IM | DMG | STAM | AG |
 | afdeling |  |  |  |  | AG |
