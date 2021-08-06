@@ -12,7 +12,8 @@
 | objectcategorie | HVA | IM |  |  | AG |
 | objectnaam | HVA | IM | DMG | STAM | AG |
 | titel | HVA | IM | DMG | STAM | AG |
-| onderdeel + aantal |  |  |  |  | AG |
+| deel |  |  |  |  | AG |
+| aantal\_onderdelen |  |  |  |  | AG |
 | beschrijving | HVA | IM | DMG | STAM | AG |
 | oplage |  |  | DMG |  |  |
 | vervaardiger | HVA | IM | DMG | STAM |  |
