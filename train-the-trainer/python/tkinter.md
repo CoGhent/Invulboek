@@ -16,8 +16,7 @@ description: Create Graphic User Interfaces
 
 **\#naamApp\#** = Tk\(\): Creëren van het basisscherm
 
-**\#naamApp\#.mainLoop\(\)**: ‘Laten lopen’ van de app  
-
+**\#naamApp\#.mainLoop\(\)**: ‘Laten lopen’ van de app
 
 ## 2. Widgets
 
@@ -139,16 +138,22 @@ Extra functionaliteiten:
 ![example of warning messagebox](../../.gitbook/assets/image%20%2818%29.png)
 {% endtab %}
 
-{% tab title="Question" %}
-**messagebox.askquestion\("\#", "\#"\)**: Geeft een info pop-up _\(eerste tekst komt in header, tweede in de messagebox\)_
+{% tab title="Yes/No" %}
+**messagebox.askyesno\("\#", "\#"\)**: Geeft een info pop-up _\(eerste tekst komt in header, tweede in de messagebox\)_
 
 ![example of question messagebox](../../.gitbook/assets/image%20%288%29.png)
+
+Klikken op 'Ja', returns een 1, klikken op 'Nee' een 0.
+
+![example code](../../.gitbook/assets/image%20%2825%29.png)
 {% endtab %}
 
 {% tab title="Cancel" %}
 **messagebox.askokcancel\("\#", "\#"\)**: Geeft een info pop-up _\(eerste tekst komt in header, tweede in de messagebox\)_
 
 ![example of cancel messagebox](../../.gitbook/assets/image%20%2815%29.png)
+
+Klikken op 'Ok', returns een 1, klikken op 'Annuleren' een 0.
 {% endtab %}
 
 {% tab title="Yes/No/Cancel" %}
@@ -159,4 +164,20 @@ Extra functionaliteiten:
 {% endtabs %}
 
 ## 5. File Dialog
+
+**from tkinter import filedialog**: Module apart te importeren
+
+**filedialog.askopenfilename\(title = "\#", filetypes=\(\("\#", "\*.\#\#\#"\),\("\#", "\*.\#\#\#"\)\)\)**: Opent een filedialog om bestanden te selecteren
+
+**filedialog.askopendirecotry\(title = "\#"\)**: Opent een filedialog om een directory te selecteren
+
+filedialog returns het pad naar het gekozen bestand of directory
+
+## 6. Create new Window
+
+**\#naamwindow\# = Toplevel\(\):** Creatie van een tweede scherm
+
+**\#naamButton\# = Button\(\#naamwindow\#, text="\#", command=\#naamwindow\#.destroy\):** Automatisch sluiten van het tweede scherm
+
+\*Second windows **within a function** need **global** variables 
 
