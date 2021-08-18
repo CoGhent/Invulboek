@@ -40,6 +40,7 @@ description: Betreft invulvelden Adlib/Axiell Collections die geïmporteerd word
 | afmeting.bijzonderheden |  |  |  |  | AG |
 | inhoud.persoon.naam | HVA |  |  |  | AG |
 | inhoud.onderwerp | HVA |  |  |  | AG |
+| inhoud.onderwerp.eigennaam |  |  |  |  | AG |
 | inscriptie.inhoud |  | IM |  |  |  |
 | associatie.persoon.associatie |  |  |  |  | AG |
 | associatie.persoon.soort |  |  |  |  | AG |
