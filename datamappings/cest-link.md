@@ -43,7 +43,7 @@ description: CEST-link van de gemapte Adlib/Axiell Collections-velden
 | associatie.persoon.associatie |  |
 | associatie.persoon.soort |  |
 | associatie.persoon |  |
-| associatie.onderwerp.associatie |  |
+| associatie.onderwerp.associatie | [https://www.projectcest.be/wiki/Publicatie:Invulboek\_objecten/Veld/Term\_associatie\_concept](https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Term_associatie_concept) |
 | associatie.onderwerp.soort |  |
 | associatie.onderwerp |  |
 | associatie.onderwerp.bijzonderheden |  |
