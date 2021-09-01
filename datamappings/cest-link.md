@@ -60,7 +60,7 @@ description: CEST-link van de gemapte Adlib/Axiell Collections-velden
 | verwerving.methode |  |
 | verwerving.bron | [https://www.projectcest.be/wiki/Publicatie:Invulboek\_objecten/Veld/Naam\_verwervingsbron](https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Naam_verwervingsbron) |
 | verwerving.plaats | [https://www.projectcest.be/wiki/Publicatie:Invulboek\_objecten/Veld/Plaats\_verwervingsbron](https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Plaats_verwervingsbron) |
-| huidige\_standplaats |  |
+| huidige\_standplaats | [https://www.projectcest.be/wiki/Publicatie:Invulboek\_objecten/Veld/Identificatie\_huidige\_standplaats](https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Identificatie_huidige_standplaats) |
 | tentoonstelling |  |
 | tentoonstelling.datum.begin |  |
 | tentoonstelling.datum.eind |  |
