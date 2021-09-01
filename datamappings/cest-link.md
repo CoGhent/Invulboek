@@ -38,7 +38,7 @@ description: CEST-link van de gemapte Adlib/Axiell Collections-velden
 | afmeting.bijzonderheden | [https://www.projectcest.be/wiki/Publicatie:Invulboek\_objecten/Veld/Toelichting\_afmeting](https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Toelichting_afmeting) |
 | inhoud.persoon.naam | [https://www.projectcest.be/wiki/Publicatie:Invulboek\_objecten/Veld/Naam\_afgebeelde\_persoon\_of\_instelling](https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Naam_afgebeelde_persoon_of_instelling) |
 | inhoud.onderwerp | [https://www.projectcest.be/wiki/Publicatie:Invulboek\_objecten/Veld/Naam\_afgebeelde\_gebeurtenis](https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Naam_afgebeelde_gebeurtenis) |
-| inhoud.onderwerp.eigennaam |  |
+| inhoud.onderwerp.eigennaam | - |
 | inscriptie.onderhoud | [https://www.projectcest.be/wiki/Publicatie:Invulboek\_objecten/Veld/Inhoud\_opschrift](https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Inhoud_opschrift) |
 | associatie.persoon.associatie | [https://www.projectcest.be/wiki/Publicatie:Invulboek\_objecten/Veld/Term\_associatie\_persoon\_of\_instelling](https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Term_associatie_persoon_of_instelling) |
 | associatie.persoon.soort | [https://www.projectcest.be/wiki/Publicatie:Invulboek\_objecten/Veld/Type\_geassocieerde\_persoon\_of\_instelling](https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Type_geassocieerde_persoon_of_instelling) |
