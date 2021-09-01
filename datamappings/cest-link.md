@@ -6,21 +6,21 @@ description: CEST-link van de gemapte Adlib/Axiell Collections-velden
 
 | INVULVELD | CEST-link |
 | :--- | :--- |
-| instelling.naam |  |
-| afdeling |  |
-| collectie |  |
-| objectnummer |  |
-| record\_type |  |
+| instelling.naam | [https://www.projectcest.be/wiki/Publicatie:Invulboek\_objecten/Veld/Naam\_bewaarinstelling](https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Naam_bewaarinstelling) |
+| afdeling | [https://www.projectcest.be/wiki/Publicatie:Invulboek\_objecten/Veld/Afdeling\_bewaarinstelling](https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Afdeling_bewaarinstelling) |
+| collectie | [https://www.projectcest.be/wiki/Publicatie:Invulboek\_objecten/Veld/Naam\_collectie](https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Naam_collectie) |
+| objectnummer | [https://www.projectcest.be/wiki/Publicatie:Invulboek\_objecten/Veld/Waarde\_objectnummer](https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Waarde_objectnummer) |
+| record\_type | [https://www.projectcest.be/wiki/Publicatie:Invulboek\_objecten/Veld/Term\_catalogiseringsniveau](https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Term_catalogiseringsniveau) |
 | deel |  |
-| aantal\_onderdelen |  |
-| oplage |  |
-| object\_categorie |  |
-| objectnaam |  |
-| titel |  |
-| beschrijving |  |
-| vervaardiger |  |
-| vervaardiger.rol |  |
-| vervaardiging.plaats |  |
+| aantal\_onderdelen | [https://www.projectcest.be/wiki/Publicatie:Invulboek\_objecten/Veld/Aantal\_onderdelen](https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Aantal_onderdelen) |
+| oplage | [https://www.projectcest.be/wiki/Publicatie:Invulboek\_objecten/Veld/Oplagenummer](https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Oplagenummer) |
+| object\_categorie | [https://www.projectcest.be/wiki/Publicatie:Invulboek\_objecten/Veld/Term\_objectcategorie](https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Term_objectcategorie) |
+| objectnaam | [https://www.projectcest.be/wiki/Publicatie:Invulboek\_objecten/Veld/Term\_objectnaam](https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Term_objectnaam) |
+| titel | [https://www.projectcest.be/wiki/Publicatie:Invulboek\_objecten/Veld/Titel](https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Titel) |
+| beschrijving | [https://www.projectcest.be/wiki/Publicatie:Invulboek\_objecten/Veld/Korte\_beschrijving](https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Korte_beschrijving) |
+| vervaardiger | [https://www.projectcest.be/wiki/Publicatie:Invulboek\_objecten/Veld/Naam\_vervaardiger](https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Naam_vervaardiger) |
+| vervaardiger.rol | [https://www.projectcest.be/wiki/Publicatie:Invulboek\_objecten/Veld/Rol\_vervaardiger](https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Rol_vervaardiger) |
+| vervaardiging.plaats | [https://www.projectcest.be/wiki/Publicatie:Invulboek\_objecten/Veld/Naam\_plaats\_vervaardiging](https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Naam_plaats_vervaardiging) |
 | vervaardiging.periode | [https://www.projectcest.be/wiki/Publicatie:Invulboek\_objecten/Veld/Periode](https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Periode) |
 | vervaardiging.datum.begin | [https://www.projectcest.be/wiki/Publicatie:Invulboek\_objecten/Veld/Begindatum](https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Begindatum) |
 | vervaardiging.datum.begin.prec | [https://www.projectcest.be/wiki/Publicatie:Invulboek\_objecten/Veld/Precisie\_begindatum](https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Precisie_begindatum) |
