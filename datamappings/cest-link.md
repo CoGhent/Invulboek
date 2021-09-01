@@ -32,7 +32,7 @@ description: CEST-link van de gemapte Adlib/Axiell Collections-velden
 | materiaal.onderdeel | [https://www.projectcest.be/wiki/Publicatie:Invulboek\_objecten/Veld/Onderdeel\_materiaal](https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Onderdeel_materiaal) |
 | materiaal | [https://www.projectcest.be/wiki/Publicatie:Invulboek\_objecten/Veld/Term\_materiaal](https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Term_materiaal) |
 | afmeting.onderdeel | [https://www.projectcest.be/wiki/Publicatie:Invulboek\_objecten/Veld/Onderdeel\_afmeting](https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Onderdeel_afmeting) |
-| afmeting.soort |  |
+| afmeting.soort | [https://www.projectcest.be/wiki/Publicatie:Invulboek\_objecten/Veld/Beschrijving\_afmeting](https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Beschrijving_afmeting) |
 | afmeting.waarde | [https://www.projectcest.be/wiki/Publicatie:Invulboek\_objecten/Veld/Waarde\_afmeting](https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Waarde_afmeting) |
 | afmeting.eenheid | [https://www.projectcest.be/wiki/Publicatie:Invulboek\_objecten/Veld/Eenheid\_afmeting](https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Eenheid_afmeting) |
 | afmeting.bijzonderheden |  |
