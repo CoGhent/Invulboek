@@ -4,6 +4,7 @@
 * [Datamappings](datamappings/README.md)
   * [Mapping Objecten](datamappings/overzicht-velden-datamapping.md)
   * [Mapping Personen en Instellingen](datamappings/mapping-personen-en-instellingen.md)
+  * [CEST-link](datamappings/cest-link.md)
 * [Invulboek](invulboek/README.md)
   * [Adlib/Axiell Collections](invulboek/adlib/README.md)
     * [Objecten](invulboek/adlib/1.-adlib-registratie-van-objecten.md)
