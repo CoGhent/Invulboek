@@ -35,7 +35,7 @@ description: CEST-link van de gemapte Adlib/Axiell Collections-velden
 | afmeting.soort | [https://www.projectcest.be/wiki/Publicatie:Invulboek\_objecten/Veld/Beschrijving\_afmeting](https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Beschrijving_afmeting) |
 | afmeting.waarde | [https://www.projectcest.be/wiki/Publicatie:Invulboek\_objecten/Veld/Waarde\_afmeting](https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Waarde_afmeting) |
 | afmeting.eenheid | [https://www.projectcest.be/wiki/Publicatie:Invulboek\_objecten/Veld/Eenheid\_afmeting](https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Eenheid_afmeting) |
-| afmeting.bijzonderheden |  |
+| afmeting.bijzonderheden | [https://www.projectcest.be/wiki/Publicatie:Invulboek\_objecten/Veld/Toelichting\_afmeting](https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Toelichting_afmeting) |
 | inhoud.persoon.naam |  |
 | inhoud.onderwerp |  |
 | inhoud.onderwerp.eigennaam |  |
