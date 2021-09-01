@@ -56,10 +56,10 @@ description: CEST-link van de gemapte Adlib/Axiell Collections-velden
 | gerelateerd\_object.referentie | [https://www.projectcest.be/wiki/Publicatie:Invulboek\_objecten/Veld/Identificatie\_gerelateerd\_object](https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Identificatie_gerelateerd_object) |
 | gerelateerd\_object.titel |  |
 | gerelateerd\_object.associatie | [https://www.projectcest.be/wiki/Publicatie:Invulboek\_objecten/Veld/Type\_relatie\_object](https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Type_relatie_object) |
-| verwerving.datum |  |
+| verwerving.datum | [https://www.projectcest.be/wiki/Publicatie:Invulboek\_objecten/Veld/Waarde\_verwervingsdatum](https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Waarde_verwervingsdatum) |
 | verwerving.methode |  |
-| verwerving.bron |  |
-| verwerving.plaats |  |
+| verwerving.bron | [https://www.projectcest.be/wiki/Publicatie:Invulboek\_objecten/Veld/Naam\_verwervingsbron](https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Naam_verwervingsbron) |
+| verwerving.plaats | [https://www.projectcest.be/wiki/Publicatie:Invulboek\_objecten/Veld/Plaats\_verwervingsbron](https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Plaats_verwervingsbron) |
 | huidige\_standplaats |  |
 | tentoonstelling |  |
 | tentoonstelling.datum.begin |  |
