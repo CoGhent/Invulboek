@@ -46,7 +46,7 @@ description: CEST-link van de gemapte Adlib/Axiell Collections-velden
 | associatie.onderwerp.associatie | [https://www.projectcest.be/wiki/Publicatie:Invulboek\_objecten/Veld/Term\_associatie\_concept](https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Term_associatie_concept) |
 | associatie.onderwerp.soort | [https://www.projectcest.be/wiki/Publicatie:Invulboek\_objecten/Veld/Type\_geassocieerd\_concept](https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Type_geassocieerd_concept) |
 | associatie.onderwerp | [https://www.projectcest.be/wiki/Publicatie:Invulboek\_objecten/Veld/Naam\_geassocieerd\_concept](https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Naam_geassocieerd_concept) |
-| associatie.onderwerp.bijzonderheden | - |
+| associatie.onderwerp.bijzonderheden | [https://www.projectcest.be/wiki/Publicatie:Invulboek\_objecten/Veld/Toelichting\_associatie\_concept](https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Toelichting_associatie_concept) |
 | associatie.periode.associatie | - |
 | associatie.periode | - |
 | associatie.periode.datum.begin | - |
