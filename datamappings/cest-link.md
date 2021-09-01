@@ -37,7 +37,7 @@ description: CEST-link van de gemapte Adlib/Axiell Collections-velden
 | afmeting.eenheid | [https://www.projectcest.be/wiki/Publicatie:Invulboek\_objecten/Veld/Eenheid\_afmeting](https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Eenheid_afmeting) |
 | afmeting.bijzonderheden | [https://www.projectcest.be/wiki/Publicatie:Invulboek\_objecten/Veld/Toelichting\_afmeting](https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Toelichting_afmeting) |
 | inhoud.persoon.naam | [https://www.projectcest.be/wiki/Publicatie:Invulboek\_objecten/Veld/Naam\_afgebeelde\_persoon\_of\_instelling](https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Naam_afgebeelde_persoon_of_instelling) |
-| inhoud.onderwerp |  |
+| inhoud.onderwerp | [https://www.projectcest.be/wiki/Publicatie:Invulboek\_objecten/Veld/Naam\_afgebeelde\_gebeurtenis](https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Naam_afgebeelde_gebeurtenis) |
 | inhoud.onderwerp.eigennaam |  |
 | inscriptie.onderhoud |  |
 | associatie.persoon.associatie | [https://www.projectcest.be/wiki/Publicatie:Invulboek\_objecten/Veld/Term\_associatie\_persoon\_of\_instelling](https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Term_associatie_persoon_of_instelling) |
