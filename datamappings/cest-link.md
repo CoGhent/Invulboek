@@ -21,20 +21,20 @@ description: CEST-link van de gemapte Adlib/Axiell Collections-velden
 | vervaardiger |  |
 | vervaardiger.rol |  |
 | vervaardiging.plaats |  |
-| vervaardiging.periode |  |
-| vervaardiging.datum.begin |  |
-| vervaardiging.datum.begin.prec |  |
-| vervaardiging.datum.eind |  |
-| vervaardiging.datum.eind.prec |  |
-| vervaardiging.datum.bijzonderheden |  |
-| techniek.onderdeel |  |
-| techniek |  |
-| materiaal.onderdeel |  |
-| materiaal |  |
-| afmeting.onderdeel |  |
+| vervaardiging.periode | [https://www.projectcest.be/wiki/Publicatie:Invulboek\_objecten/Veld/Periode](https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Periode) |
+| vervaardiging.datum.begin | [https://www.projectcest.be/wiki/Publicatie:Invulboek\_objecten/Veld/Begindatum](https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Begindatum) |
+| vervaardiging.datum.begin.prec | [https://www.projectcest.be/wiki/Publicatie:Invulboek\_objecten/Veld/Precisie\_begindatum](https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Precisie_begindatum) |
+| vervaardiging.datum.eind | [https://www.projectcest.be/wiki/Publicatie:Invulboek\_objecten/Veld/Einddatum](https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Einddatum) |
+| vervaardiging.datum.eind.prec | [https://www.projectcest.be/wiki/Publicatie:Invulboek\_objecten/Veld/Precisie\_einddatum](https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Precisie_einddatum) |
+| vervaardiging.datum.bijzonderheden | [https://www.projectcest.be/wiki/Publicatie:Invulboek\_objecten/Element/Bijzonderheden\_vervaardiging](https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Element/Bijzonderheden_vervaardiging) |
+| techniek.onderdeel | [https://www.projectcest.be/wiki/Publicatie:Invulboek\_objecten/Veld/Onderdeel\_techniek](https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Onderdeel_techniek) |
+| techniek | [https://www.projectcest.be/wiki/Publicatie:Invulboek\_objecten/Veld/Term\_techniek](https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Term_techniek) |
+| materiaal.onderdeel | [https://www.projectcest.be/wiki/Publicatie:Invulboek\_objecten/Veld/Onderdeel\_materiaal](https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Onderdeel_materiaal) |
+| materiaal | [https://www.projectcest.be/wiki/Publicatie:Invulboek\_objecten/Veld/Term\_materiaal](https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Term_materiaal) |
+| afmeting.onderdeel | [https://www.projectcest.be/wiki/Publicatie:Invulboek\_objecten/Veld/Onderdeel\_afmeting](https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Onderdeel_afmeting) |
 | afmeting.soort |  |
-| afmeting.waarde |  |
-| afmeting.eenheid |  |
+| afmeting.waarde | [https://www.projectcest.be/wiki/Publicatie:Invulboek\_objecten/Veld/Waarde\_afmeting](https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Waarde_afmeting) |
+| afmeting.eenheid | [https://www.projectcest.be/wiki/Publicatie:Invulboek\_objecten/Veld/Eenheid\_afmeting](https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Eenheid_afmeting) |
 | afmeting.bijzonderheden |  |
 | inhoud.persoon.naam |  |
 | inhoud.onderwerp |  |
