@@ -51,6 +51,7 @@ description: CEST-link van de gemapte Adlib/Axiell Collections-velden
 | associatie.periode | - |
 | associatie.periode.datum.begin | - |
 | associatie.periode.datum.eind | - |
+| alternatief\_nummer | [https://www.projectcest.be/wiki/Publicatie:Invulboek\_objecten/Veld/Type\_alternatief\_objectnummer](https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Type_alternatief_objectnummer) |
 | deel\_van.refentie | [https://www.projectcest.be/wiki/Publicatie:Invulboek\_objecten/Veld/Identificatie\_gerelateerd\_object](https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Identificatie_gerelateerd_object) |
 | delen.referentie | [https://www.projectcest.be/wiki/Publicatie:Invulboek\_objecten/Veld/Identificatie\_gerelateerd\_object](https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Identificatie_gerelateerd_object) |
 | gerelateerd\_object.referentie | [https://www.projectcest.be/wiki/Publicatie:Invulboek\_objecten/Veld/Identificatie\_gerelateerd\_object](https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Identificatie_gerelateerd_object) |
