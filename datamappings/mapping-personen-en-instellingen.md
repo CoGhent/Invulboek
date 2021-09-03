@@ -21,10 +21,10 @@ description: Betreft invulvelden Adlib/Axiell Collections die geïmporteerd word
 | naam.status |  |  | HVA | IM | DMG | STAM | AG |
 | geboorte.datum.begin | heeftGeboorte |  | HVA | IM | DMG | STAM | AG |
 | geboorte.datum.eind |  |  |  |  | DMG | STAM | AG |
-| geboorte.plaats | heeftGeboorte + plaats |  | HVA | IM | DMG | STAM | AG |
+| geboorte.plaats | heeftGeboorte --&gt; plaats |  | HVA | IM | DMG | STAM | AG |
 | overlijden.datum.begin | heeftOverlijden |  | HVA | IM | DMG | STAM | AG |
 | overlijden.Datum.eind |  |  |  |  | DMG | STAM | AG |
-| overlijden.plaats |  |  | HVA | IM | DMG | STAM | AG |
+| overlijden.plaats | heeftOverlijden --&gt; plaats |  | HVA | IM | DMG | STAM | AG |
 | nationaliteit |  |  | HVA |  | DMG | STAM | AG |
 | beroep |  |  | HVA |  |  |  | AG |
 | plaats\_werkzaamh |  |  |  |  |  |  | AG |
