@@ -55,6 +55,7 @@ description: CEST-link van de gemapte Adlib/Axiell Collections-velden
 | delen.referentie | [https://www.projectcest.be/wiki/Publicatie:Invulboek\_objecten/Veld/Identificatie\_gerelateerd\_object](https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Identificatie_gerelateerd_object) |
 | gerelateerd\_object.referentie | [https://www.projectcest.be/wiki/Publicatie:Invulboek\_objecten/Veld/Identificatie\_gerelateerd\_object](https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Identificatie_gerelateerd_object) |
 | gerelateerd\_object.titel | - |
+| alternatief\_nummer | [https://www.projectcest.be/wiki/Publicatie:Invulboek\_objecten/Veld/Type\_alternatief\_objectnummer](https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Type_alternatief_objectnummer) |
 | gerelateerd\_object.associatie | [https://www.projectcest.be/wiki/Publicatie:Invulboek\_objecten/Veld/Type\_relatie\_object](https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Type_relatie_object) |
 | verwerving.datum | [https://www.projectcest.be/wiki/Publicatie:Invulboek\_objecten/Veld/Waarde\_verwervingsdatum](https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Waarde_verwervingsdatum) |
 | verwerving.methode | [https://www.projectcest.be/wiki/Publicatie:Invulboek\_objecten/Veld/Term\_verwervingsmethode](https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Term_verwervingsmethode) |
