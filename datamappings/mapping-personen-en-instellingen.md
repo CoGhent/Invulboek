@@ -9,8 +9,8 @@ description: Betreft invulvelden Adlib/Axiell Collections die geïmporteerd word
 | naam | volledigeNaam | HVA | IM | DMG | STAM | AG |
 | naam.soort |  | HVA | IM | DMG | STAM | AG |
 | referentienummer | Object.identificator | HVA | IM | DMG | STAM | AG |
-| use |  | HVA | IM | DMG |  |  |
-| used\_for |  | HVA | IM | DMG |  |  |
+| use | skos:related | HVA | IM | DMG |  |  |
+| used\_for | skos:related | HVA | IM | DMG |  |  |
 | titel | alternatieveNaam |  |  |  |  | AG |
 | geslacht | geslacht | HVA |  | DMG | STAM | AG |
 | achternaam | achternaam | HVA |  | DMG | STAM | AG |
