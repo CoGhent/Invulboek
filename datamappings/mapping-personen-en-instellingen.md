@@ -9,6 +9,7 @@ description: Betreft invulvelden Adlib/Axiell Collections die geïmporteerd word
 | naam | volledigeNaam |  | HVA | IM | DMG | STAM | AG |
 | naam.soort |  |  | HVA | IM | DMG | STAM | AG |
 | referentienummer | Object.identificator |  | HVA | IM | DMG | STAM | AG |
+| opmerking naam |  |  |  |  |  |  | AG |
 | use |  |  | HVA | IM | DMG |  |  |
 | used\_for |  |  | HVA | IM | DMG |  |  |
 | titel |  |  |  |  |  |  | AG |
