@@ -19,10 +19,10 @@ description: Betreft invulvelden Adlib/Axiell Collections die geïmporteerd word
 | bron |  |  | HVA | IM | DMG | STAM | AG |
 | bron.nummer |  |  | HVA | IM | DMG | STAM | AG |
 | naam.status |  |  | HVA | IM | DMG | STAM | AG |
-| geboorte.datum.begin |  |  | HVA | IM | DMG | STAM | AG |
+| geboorte.datum.begin | heeftGeboorte |  | HVA | IM | DMG | STAM | AG |
 | geboorte.datum.eind |  |  |  |  | DMG | STAM | AG |
-| geboorte.plaats |  |  | HVA | IM | DMG | STAM | AG |
-| overlijden.datum.begin |  |  | HVA | IM | DMG | STAM | AG |
+| geboorte.plaats | heeftGeboorte + plaats |  | HVA | IM | DMG | STAM | AG |
+| overlijden.datum.begin | heeftOverlijden |  | HVA | IM | DMG | STAM | AG |
 | overlijden.Datum.eind |  |  |  |  | DMG | STAM | AG |
 | overlijden.plaats |  |  | HVA | IM | DMG | STAM | AG |
 | nationaliteit |  |  | HVA |  | DMG | STAM | AG |
