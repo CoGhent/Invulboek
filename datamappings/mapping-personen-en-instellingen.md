@@ -31,7 +31,7 @@ description: Betreft invulvelden Adlib/Axiell Collections die geïmporteerd word
 | plaats\_activiteit.instituut |  |  |  |  |  | AG |
 | biografie |  | HVA |  |  |  | AG |
 | structuur\_genealogie | alternatieveNaam |  |  |  |  | AG |
-| relatie.bijzonderheden |  |  |  |  |  | AG |
 | related\_term |  |  |  |  |  | AG |
 | relatie.categorie |  |  |  |  |  | AG |
+| relatie.bijzonderheden |  |  |  |  |  | AG |
 
