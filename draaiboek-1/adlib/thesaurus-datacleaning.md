@@ -4,7 +4,7 @@
 
 Typ het woord dat je wil controleren in de zoekfunctie op Axiell of Adlib
 
-#### Tip: als je bv. gloeilamp wil controleren zoek je best _gloeilamp_ zodat je meteen ook kan checken of er meervoudsvormen of afgeleiden in de thesaurus staan. Wil je heel volledig controleren kan je ook op _lamp_ of _gloei_ zoeken.
+#### Tip: als je bv. gloeilamp wil controleren zoek je best \*gloeilamp\* zodat je meteen ook kan checken of er meervoudsvormen of afgeleiden in de thesaurus staan. Wil je heel volledig controleren kan je ook op \*lamp\* of \*gloei\* zoeken.
 
 ### 2.    Gekoppelde records bekijken
 
@@ -12,7 +12,7 @@ Open een term uit de lijst zoekresultaten en ga in het menu naar “beeld” en 
 
 ![image](https://user-images.githubusercontent.com/78725690/124592801-268d0400-de5e-11eb-9997-59e461b95fdb.png)![image](https://user-images.githubusercontent.com/78725690/124593152-969b8a00-de5e-11eb-8b99-cd688171b816.png)![image](https://user-images.githubusercontent.com/78725690/124593224-ab781d80-de5e-11eb-8a39-d6f4f5cd8d63.png)
 
-Tip: deze functie werkt voorlopig enkel in Adlib en niet in Axiell Tip: Door op het + teken te klikken kan je het nummer of priref van het record zien waaraan de term is gekoppeld. Je kan dit nummer zoeken in Adlib of Axiell via “ %0 = ”
+**Tip**: deze functie werkt voorlopig enkel in Adlib en niet in Axiell Tip: Door op het "+"-teken te klikken kan je het nummer of priref van het record zien waaraan de term is gekoppeld. Je kan dit nummer zoeken in Adlib of Axiell via “ %0 = ”
 
 ### 3.    Term zonder gekoppelde records
 
@@ -20,9 +20,9 @@ Hangt er geen enkel record aan de term? Controleer dan of er bij “use” een a
 
 ![image](https://user-images.githubusercontent.com/78725690/124593318-c8acec00-de5e-11eb-80a0-b1ebe6d938f8.png)
 
-Tip: wanneer je een lange lijst termen wil aanpakken is het gemakkelijk om bovenaan het record te markeren wanneer het kan verwijderd worden. Daarna kan je in één keer alle gemarkeerde records verwijderen.
+**Tip**: wanneer je een lange lijst termen wil aanpakken is het gemakkelijk om bovenaan het record te markeren wanneer het kan verwijderd worden. Daarna kan je in één keer alle gemarkeerde records verwijderen.
 
-Tip: een term toevoegen bij “use” of “use for” kan voorlopig enkel in adlib
+**Tip**: een term toevoegen bij “use” of “use for” kan voorlopig enkel in adlib en niet in axiell.
 
 ### 4.    Term met gekoppelde records
 
@@ -30,7 +30,7 @@ Controleer of de term uniek is en verander de status van de term naar “descrip
 
 ### 5.    Koppelen met externe autoriteiten
 
-Kijk of de term opgenomen is in AAT, Wikidata, of, in het geval van een geografisch trefwoord, TGN. Kopieer de URI en de scope note, als deze beschikbaar is. Voeg de bron als volgt toe:
+Kijk of de term opgenomen is in AAT, Wikidata, of, in het geval van een geografisch trefwoord, TGN. Kopieer de URI en de scope note als deze beschikbaar is. Voeg de bron als volgt toe:
 
 #### AAT:
 
@@ -44,7 +44,7 @@ Kijk of de term opgenomen is in AAT, Wikidata, of, in het geval van een geografi
 
 ![image](https://user-images.githubusercontent.com/78725690/124594273-e4fd5880-de5f-11eb-92be-d05010f72240.png)
 
-Tip: Als je het veld “Bron” aanklik, geeft Axiell een drop down menu van de verschillende opties die eerder door jou gebruikt zijn, dan hoef je niet telkens de hele URI te kopiëren en te plakken. In Adlib kan dit helaas niet.
+**Tip**: Als je het veld “Bron” aanklik, geeft Axiell een drop down menu van de verschillende opties die eerder door jou gebruikt zijn, dan hoef je niet telkens de hele URI te kopiëren en te plakken. In Adlib kan dit helaas niet.
 
 #### Je vindt de nummers als volgt:
 
@@ -57,6 +57,8 @@ Tip: Als je het veld “Bron” aanklik, geeft Axiell een drop down menu van de 
 ## CASUSSEN
 
 ### 1.    In de thesaurus staat een term zowel in enkelvoud als meervoud
+
+In sommige gevallen is het nodig dat zowel de meervoudsvorm als de enkelvoudsvorm in de thesaurus opgenomen zijn, ga eerst na of dit het geval is. Zo niet, volg dan het onderstaande stappenplan.
 
 • Controleer via het linkoverzicht aan welke term het meest records hangen
 
@@ -82,9 +84,9 @@ Tip: Als je het veld “Bron” aanklik, geeft Axiell een drop down menu van de 
 
 • Schrijf de geprefereerde term in het veld “use” bij het synoniem. Bij de juiste term verschijnt het synoniem automatisch in het veld “used for”
 
-#### Tip: je kan meerdere termen toevoegen bij “used for”, dit zorgt ervoor dat je wel nog kan zoeken op deze termen maar deze niet meer actief kunnen gebruikt worden in adlib
+#### Tip: je kan meerdere termen toevoegen bij “used for”, dit zorgt ervoor dat je wel nog kan zoeken op deze termen maar dat deze niet meer actief kunnen gebruikt worden in adlib
 
-• Adlib vervangt in de gekoppelde records automatisch de oude term door nieuwe, geprefereerde term
+• Adlib vervangt in de gekoppelde records automatisch de oude term door de nieuwe, geprefereerde term
 
 • Verander bij de termen die niet langer actief zullen gebruikt worden de status naar “non-descriptor”
 
