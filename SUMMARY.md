@@ -29,4 +29,4 @@
     * [1. Excel](draaiboek-1/data-analyse/excel/README.md)
       * [Formules](draaiboek-1/data-analyse/excel/formules.md)
       * [Data Visualiseren](draaiboek-1/data-analyse/excel/data-visualisering.md)
-
+* [Workflow rechten klaren](workflow-rechten-klaren.md)
