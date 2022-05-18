@@ -4,6 +4,8 @@
 
 Vertrekpunt: objecten onder copyright
 
+wetboek over anonieme werken: [http://www.ejustice.just.fgov.be/cgi\_loi/loi\_a1.pl?language=nl\&la=N\&cn=2013022819\&table\_name=wet\&caller=list\&N\&fromtab=wet\&tri=dd%20AS%20RANK\&rech=1\&numero=1\&sql=%28text%20contains%20%28%27%27%29%29](http://www.ejustice.just.fgov.be/cgi\_loi/loi\_a1.pl?language=nl\&la=N\&cn=2013022819\&table\_name=wet\&caller=list\&N\&fromtab=wet\&tri=dd%20AS%20RANK\&rech=1\&numero=1\&sql=%28text%20contains%20%28%27%27%29%29)&#x20;
+
 **Archief Gent:**&#x20;
 
 1\) **fotocollectie** --> indien fotograaf leeft CC BY-SA 4.0, indien niet akkoord IC of strengere CC, afhankelijk van argumenten
@@ -38,7 +40,9 @@ GDRP flowchart + risicoanalyse
 
 **STAM:**
 
-****
+anonieme werken ouder dan 70 jaar?&#x20;
+
+CC BY-NC 4.0 versus CC BY-NC-ND 4.0
 
 
 
