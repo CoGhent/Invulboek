@@ -34,7 +34,7 @@ In Copyright: kolom rechthebbende invullen? nakijken hoe csv wordt ingevuld, bij
 
 indien rechten klaren --> CC BY-SA 4.0 (voor fotografen), indien familiefoto's CC BY-NC 4.0 (HvA)
 
-portretrecht flowchart + risicoanalyse&#x20;
+portretrecht flowchart + risicoanalyse --> _alles voor 1970 is ok wat betreft portretrecht (alles ouder dan 50 jaar) --> pragmatische aanpak HvA_
 
 GDRP flowchart + risicoanalyse
 
